@@ -1,1 +1,1 @@
-#proj_2 *honestly not too much to look at*
+# proj_2 *just another series of testing in C :^)*
